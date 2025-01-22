@@ -1,2 +1,4 @@
 # Salary-Prediction
 Simple linear regression is a method used in machine learning to show how one variable affects another. Imagine you're trying to understand how the number of years someone has worked affects their salary. Simple linearregression helps us see if there's a clear relationship between these two things by drawing a straight line through a set of data points representing different levels of experience and corresponding salaries.
+
+import essential libraries for data manipulation and visualization in Python. NumPy (as np) provides support for numerical computing, Matplotlib.pyplot (as plt) enables plotting and visualization, and Pandas (as pd) offers tools for data manipulation and analysis, facilitating tasks like loading, manipulating, and visualizing data from various sources.
