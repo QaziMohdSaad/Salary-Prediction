@@ -1,2 +1,2 @@
 # Salary-Prediction
-This repository contains a comprehensive project that combines Python for data analysis and Power BI for data visualization, focusing on Amazon sales data. The project demonstrates how to extract insights from raw sales data and transform it into interactive, visually appealing dashboards.
+Simple linear regression is a method used in machine learning to show how one variable affects another. Imagine you're trying to understand how the number of years someone has worked affects their salary. Simple linearregression helps us see if there's a clear relationship between these two things by drawing a straight line through a set of data points representing different levels of experience and corresponding salaries.
